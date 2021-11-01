@@ -4,7 +4,7 @@ import java.awt.*;
 class Main extends JComponent {
     public void paint(Graphics page) {
         page.setColor(Color.blue);
-        page.drawString("Carpe Diem", 50, 50);
+        page.drawString("Your text", 50, 50);
     }
 
 
